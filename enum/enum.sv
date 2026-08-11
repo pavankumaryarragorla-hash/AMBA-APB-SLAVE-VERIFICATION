@@ -1,3 +1,5 @@
+//--------------------------------enum //-----------------------
+
 module tb;
 
 /*typedef enum {read,write,read_write}op_code;
